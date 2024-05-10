@@ -20,10 +20,13 @@
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{arkham998}/count.svg" alt="arkhan998 :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Malik_Md Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
+ <a href="https://whatsapp.com/channel/0029VaN8WMOHFxP0SLAKKu0P" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ <a href="https://youtube.com/@technicalmalikoffical?si=UZJ35N2KgGaEwr13" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Subscribe My Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
+
 
 ---
 # ```Scan QR Code```
