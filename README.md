@@ -54,8 +54,9 @@
 
 </p> 
 
-#```How to deploy```
-***([Tutorial](https://youtu.be/3IsqF2IS060?si=eK0vRLd6h5q8TmsG) )***
+* Deploy on Heroku Video ⇓
+ <p align="left">
+<a href="https://youtu.be/3IsqF2IS060?si=eK0vRLd6h5q8TmsG"><img align="center" src="https://telegra.ph/file/3f6c3e937ab6a7ec682f0.jpg" alt="DEPLOY" height="110" width="200" /></a>
 
 <br>
    
