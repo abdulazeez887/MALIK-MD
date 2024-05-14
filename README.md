@@ -146,7 +146,11 @@
     
 </p>
 
+<p>𝗙𝗥𝗘𝗘 𝗠𝗢𝗡𝗚𝗢𝗗𝗕_𝗨𝗥𝗟 </p>
 
+  ```
+    mongodb+srv://maliksahab:maliksahab@cluster0.pkr0dsx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+```
 
 ## Thanks To 
 1: Naveed Dogar
