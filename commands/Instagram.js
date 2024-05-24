@@ -15,7 +15,7 @@
  let txt = text ? text.split(" ")[0]:'';
  if (!/instagram/.test(txt)) return await citel.reply(`Please give me valid instagram video link..!`);
  let data;
- try{ data= await (await fetch(`https://vihangayt.me/download/instagram2?url=${text}`)).json();} 
+ try{ data= await (await fetch(`https://api.maher-zubair.tech/download/instagram?url=${text}`)).json();} 
  catch { return citel.reply(`An error occurred`);  }
  return Void.sendMessage(citel.chat, {video : {url : data.result[0] },caption: cap,width: 600,height: 490, },{ quoted: citel })
 })
