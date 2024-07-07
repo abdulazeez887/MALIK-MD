@@ -6,13 +6,13 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://malikmd:malikmd@cluster0.bfc7ce9.mongodb.net/"
 global.port= process.env.PORT || 5000
-global.email = 'akk728492@gmail.com'
-global.github = 'https://github.com/arkhan998/MALIK-MD'
+global.email = 'bgvhccc@gmail.com'
+global.github = 'https://atom.bio/elakrabelyotyobr'
 global.location = 'Pakistan'
 global.gurl = 'king-md.db' // add your username
-global.sudo = process.env.SUDO || '923124533358'
-global.devs = '923124533358';
-global.website = 'https://github.com/arkhan998/MALIK-MD' //wa.me/+91000000000000
+global.sudo = process.env.SUDO || '201028085788'
+global.devs = '201028085788';
+global.website = 'https://atom.bio/elakrabelyotyobr' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/dce77f7538019d05afe65.jpg'
 module.exports = {
   
@@ -48,7 +48,7 @@ recordingpresence:  process.env.RECORDING === undefined ? false : process.env.RE
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'MALIK',
+  LANG: process.env.THEME|| 'ELAKRAB',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
 };
 
